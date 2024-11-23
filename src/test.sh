@@ -1,0 +1,1 @@
+clang++ -std=c++20 -o test test.cpp PBR.cpp Bytes.cpp Partition_search.cpp Partition_fragment.cpp

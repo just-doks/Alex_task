@@ -1,0 +1,1 @@
+clang++ -std=c++20 -o app main.cpp Program.cpp PBR.cpp Bytes.cpp Partition_search.cpp Partition_fragment.cpp

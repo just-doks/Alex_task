@@ -1,0 +1,1 @@
+clang++ -o app obj/*.o
